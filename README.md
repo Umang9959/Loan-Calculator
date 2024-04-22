@@ -1,30 +1,43 @@
-# Loan Calculator Website
 
-This repository contains the development of a loan calculator website built using HTML, CSS, and JavaScript. The website allows users to input loan amount, interest rate, and loan duration in months, and calculates the monthly payment, total payment, and total interest based on the provided inputs.
+
+# Loan Calculator - HTML, CSS , Bootstrap & Javascript
+
+This is a loan calculator built with HTML, CSS,Bootstrap & JavaScript. In this simple expenses tracker application project I have used  some of the more intermediate advanced parts of the document object model or the javascript dom to show  how to build this web application. 
 
 ## Features
 
-- **Loan Input Form**: Users can input the loan amount, interest rate (in percentage), and loan duration in months.
-- **Dynamic Calculation**: The website dynamically calculates the monthly payment, total payment, and total interest based on the provided inputs.
-- **Clear Output**: The calculated results are displayed clearly on the website for easy understanding.
-- **Responsive Design**: The website is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
+- Users can enter a loan amount, interest rate, and months to repay
+- Loading animation displays upon submission
+- Calculates and displays the results for monthly - payment, total payment, and total interest
+- An error message displays if the input is invalid
 
-## Technologies Used
+## Technologies
 
-- **HTML**: For the structure and content of the website.
-- **CSS**: For styling and layout.
-- **JavaScript**: For dynamic calculation and interaction.
+Built with:
 
-## Getting Started
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-To use the loan calculator website:
+## Screenshots
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Input the loan amount, interest rate, and loan duration.
-4. View the calculated monthly payment, total payment, and total interest displayed on the website.
+### Desktop View
+![](images/1.jpeg)
 
-## Contribution Guidelines
+![](images/2.png)
 
-Contributions to this project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests and contribute to making this loan calculator website even better.
+![](images/3.jpeg)
+
+![](images/6.png)
+
+### Mobile View
+![](images/4.jpeg) ![](images/5.jpeg)
+
+
+
+
+
+
+
 
